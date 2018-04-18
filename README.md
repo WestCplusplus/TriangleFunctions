@@ -1,4 +1,4 @@
-#Triangle Functions 
+<h1>Triangle Functions</h1>
 
 3.7. Create a program that asks the user if they have a right triangle, isosceles, or equilateral. You will be given 2 sides of the triangle. You must write a program that finds the length of the missing side. You must write a program the finds the perimeter, and area of the triangles. 
 The program must not end until you type the word STOP. 
